@@ -1,0 +1,15 @@
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week4\Week4While-loop\bin\Debug\net6.0\Week4While-loop.exe
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week4\Week4While-loop\bin\Debug\net6.0\Week4While-loop.deps.json
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week4\Week4While-loop\bin\Debug\net6.0\Week4While-loop.runtimeconfig.json
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week4\Week4While-loop\bin\Debug\net6.0\Week4While-loop.dll
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week4\Week4While-loop\bin\Debug\net6.0\Week4While-loop.pdb
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week4\Week4While-loop\obj\Debug\net6.0\Week4While-loop.csproj.AssemblyReference.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week4\Week4While-loop\obj\Debug\net6.0\Week4While-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week4\Week4While-loop\obj\Debug\net6.0\Week4While-loop.AssemblyInfoInputs.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week4\Week4While-loop\obj\Debug\net6.0\Week4While-loop.AssemblyInfo.cs
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week4\Week4While-loop\obj\Debug\net6.0\Week4While-loop.csproj.CoreCompileInputs.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week4\Week4While-loop\obj\Debug\net6.0\Week4While-loop.dll
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week4\Week4While-loop\obj\Debug\net6.0\refint\Week4While-loop.dll
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week4\Week4While-loop\obj\Debug\net6.0\Week4While-loop.pdb
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week4\Week4While-loop\obj\Debug\net6.0\Week4While-loop.genruntimeconfig.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\Week4\Week4While-loop\obj\Debug\net6.0\ref\Week4While-loop.dll
